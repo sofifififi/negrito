@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(253, 207, 207)
+    ;
+}
+
+
+
+.margin{
+    margin-top: 180px;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding: 70px;
+    background-color: #d15b19;
+    justify-content: center;
+}
+
+.border{
+padding: 70px;
+background-color: #e5a685;
+}
+
+.padding{
+padding: 90px;
+background-color: #459fc7;
+}
+.contenido{
+padding: 70px;
+background-color: #9fcae0;
+
+}
